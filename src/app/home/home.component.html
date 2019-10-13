@@ -1,0 +1,16 @@
+<div class="header container-fluid text-center">
+    <div class="overlay">
+        <nav class="navbar">
+            <a class="navbar-brand" routerLink="/">BloodFlood</a>
+            <button class="btn btn-danger" routerLink="/auth" *ngIf="!isAuthenticated">Login</button>
+            <button class="btn btn-danger" *ngIf="isAuthenticated" (click)="onLogOut()">Logout</button>
+        </nav>
+        <h1>Donate Blood</h1>
+        <p>By donating blood, you can save lives!</p>
+        <button class="btn btn-danger btn-lg" routerLink="/donate">Register for donating</button>
+    </div>
+</div>
+<benefits></benefits>
+<footer></footer>
+
+

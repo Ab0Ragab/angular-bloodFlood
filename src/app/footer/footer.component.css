@@ -1,0 +1,31 @@
+.footer
+{
+    background-color:#dc3545;
+    margin-top: 20px;
+    color: #FFF;
+    padding: 40px;
+}
+.footer h2
+{
+    color: yellow;
+}
+.footer span
+{
+    display: block;
+    margin-top: 60px;
+}
+.footer .fa-facebook:hover
+{
+    cursor: pointer;
+    color:blue;
+}
+.footer .fa-google:hover
+{
+    cursor: pointer;
+    color:red;
+}
+.footer .fa-twitter:hover
+{
+    cursor: pointer;
+    color:dodgerblue;
+}

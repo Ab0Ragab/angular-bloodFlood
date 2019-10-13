@@ -1,0 +1,17 @@
+h1
+{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+img
+{
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.btn-danger
+{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,17 @@
+.fa-lock
+{
+    text-align: center;
+}
+form
+{
+    background: #dc3545;
+    color: aliceblue;
+    padding: 40px 40px 90px 40px;
+    border-radius: 25px;
+    margin: 60px 20px 0 20px;
+}
+.btn-danger
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
